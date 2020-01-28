@@ -1,3 +1,3 @@
-s1 = 'Hello '
-s2 = 'world'
-print(s1 + s2)
+A = 'Hello '
+B = 'world'
+print(A + B)
