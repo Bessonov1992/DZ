@@ -1,3 +1,4 @@
-list = ['a','b','c','d','e','f','g','h','i','j']
-del list[-1]
-print(list)
+from random import randint
+a = [randint(0, 100) for i in range(10)]
+del a [-1]
+print(a)
